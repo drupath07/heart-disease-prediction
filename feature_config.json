@@ -1,0 +1,138 @@
+{
+    "Age": {
+        "type": "numeric",
+        "default": 49.0,
+        "min": 18.0,
+        "max": 80.0
+    },
+    "Gender": {
+        "type": "categorical",
+        "options": [
+            "Female",
+            "Male"
+        ]
+    },
+    "Blood Pressure": {
+        "type": "numeric",
+        "default": 150.0,
+        "min": 120.0,
+        "max": 180.0
+    },
+    "Cholesterol Level": {
+        "type": "numeric",
+        "default": 226.0,
+        "min": 150.0,
+        "max": 300.0
+    },
+    "Exercise Habits": {
+        "type": "categorical",
+        "options": [
+            "High",
+            "Low",
+            "Medium"
+        ]
+    },
+    "Smoking": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "Family Heart Disease": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "Diabetes": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "BMI": {
+        "type": "numeric",
+        "default": 29.079491590086043,
+        "min": 18.00283694367505,
+        "max": 39.99695379658124
+    },
+    "High Blood Pressure": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "Low HDL Cholesterol": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "High LDL Cholesterol": {
+        "type": "categorical",
+        "options": [
+            "No",
+            "Yes"
+        ]
+    },
+    "Alcohol Consumption": {
+        "type": "categorical",
+        "options": [
+            "High",
+            "Low",
+            "Medium",
+            "Unknown"
+        ]
+    },
+    "Stress Level": {
+        "type": "categorical",
+        "options": [
+            "High",
+            "Low",
+            "Medium"
+        ]
+    },
+    "Sleep Hours": {
+        "type": "numeric",
+        "default": 7.003252334814371,
+        "min": 4.000605495703501,
+        "max": 9.999952253817796
+    },
+    "Sugar Consumption": {
+        "type": "categorical",
+        "options": [
+            "High",
+            "Low",
+            "Medium"
+        ]
+    },
+    "Triglyceride Level": {
+        "type": "numeric",
+        "default": 250.0,
+        "min": 100.0,
+        "max": 400.0
+    },
+    "Fasting Blood Sugar": {
+        "type": "numeric",
+        "default": 120.0,
+        "min": 80.0,
+        "max": 160.0
+    },
+    "CRP Level": {
+        "type": "numeric",
+        "default": 7.472164393020417,
+        "min": 0.0036467123625,
+        "max": 14.997086730710286
+    },
+    "Homocysteine Level": {
+        "type": "numeric",
+        "default": 12.409395381646618,
+        "min": 5.000236488356111,
+        "max": 19.99903699208996
+    }
+}
